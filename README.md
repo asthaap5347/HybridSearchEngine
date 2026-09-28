@@ -53,6 +53,3 @@ uvicorn src.main:app --reload
 
 
 4. Open your browser and explore the interactive API docs at `http://127.0.0.1:8000/docs`.
-
-```
-
